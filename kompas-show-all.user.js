@@ -2,7 +2,7 @@
 // @name         Show All Kompas.com
 // @namespace    https://greasyfork.org/en/users/221437
 // @version      0.1
-// @description  Automatically show all page for Kompas.com.
+// @description  Automatically shows all page for Kompas.com.
 // @author       channelorange
 // @match        *://*.kompas.com/*
 // @run-at       document-start

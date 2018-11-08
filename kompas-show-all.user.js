@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Show All Kompas.com
 // @namespace    https://greasyfork.org/en/users/221437
-// @version      0.1
+// @version      0.2
 // @description  Automatically shows all page for Kompas.com.
 // @author       channelorange
 // @match        *://*.kompas.com/*
-// @exclude		 *://www.kompas.com/
+// @exclude      *://www.kompas.com/
 // @run-at       document-start
 // @grant        none
 // @compatible   chrome

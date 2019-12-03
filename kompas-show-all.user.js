@@ -5,6 +5,8 @@
 // @description  Automatically shows all page for Kompas.com.
 // @author       channelorange
 // @match        *://*.kompas.com/*
+// @match        *://*.tribunnews.com/*
+// @match        *://*.gridoto.com/*
 // @exclude      *://www.kompas.com/
 // @run-at       document-start
 // @grant        none
